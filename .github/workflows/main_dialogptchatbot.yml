@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'DialoGPTchatbot'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C8B877B5B6B1459BBB2C2C8480174DB7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_02D3A8C5B59D48F39D17E4E7F6471B9E }}
